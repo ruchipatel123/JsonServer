@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Ruchi",
+      "email": "ruchi@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Keyur",
+      "email": "keyur@gmail.com"
+    },
+    {
+      "id": "834f",
+      "name": "test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "16ab",
+      "name": "testing",
+      "email": "testingid"
+    },
+    {
+      "id": "7067",
+      "name": "hfu",
+      "email": "bkb"
+    },
+    {
+      "id": "dc7c",
+      "name": "ddd",
+      "email": "dwd"
+    },
+    {
+      "id": "b52d",
+      "name": "kiana",
+      "email": "kiana@gmail.com"
+    }
+  ]
+}
